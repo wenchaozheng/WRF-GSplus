@@ -35,4 +35,4 @@ If you find this work useful in your research, please cite:
 }
 ```
 ## Acknowledgment
-Thanks to the [NeRF2](https://github.com/XPengZhao/NeRF2?tab=readme-ov-file) author for his help. And some code snippets are borrowed from [3DGS](https://github.com/graphdeco-inria/gaussian-splatting/tree/main).
+Some code snippets are borrowed from [3DGS](https://github.com/graphdeco-inria/gaussian-splatting/tree/main).
