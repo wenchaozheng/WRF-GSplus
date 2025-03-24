@@ -24,6 +24,10 @@ python train.py
 ```
 More datasets can be found [here](https://github.com/XPengZhao/NeRF2?tab=readme-ov-file).<be>
 
+## To-Do List
+- [ ] Release more case study code.
+- [ ] Optimize related code structure.
+
 ## BibTex
 If you find this work useful in your research, please cite:
 ```bibtex
