@@ -14,7 +14,7 @@ Install some extensions
 cd submodules
 pip install ./simple-knn
 pip install ./diff-gaussian-rasterization # or cd ./diff-gaussian-rasterization && python setup.py develop
-pip install ./submodules/fused-ssim
+pip install ./fused-ssim
 ```
 
 ## Training & Evaluation
