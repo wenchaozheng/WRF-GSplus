@@ -43,12 +43,16 @@ More datasets can be found [here](https://github.com/XPengZhao/NeRF2?tab=readme-
 ## BibTex
 If you find this work useful in your research, please cite:
 ```bibtex
-@article{wen2025wrfgsplus,
-  title={Neural Representation for Wireless Radiation Field Reconstruction: A 3D Gaussian Splatting Approach},
+@ARTICLE{11258087,
   author={Wen, Chaozheng and Tong, Jingwen and Hu, Yingdong and Lin, Zehong and Zhang, Jun},
-  journal={arXiv preprint arXiv:2412.04832v3},
-  year={2025}
-}
+  journal={IEEE Transactions on Wireless Communications}, 
+  title={Neural Representation for Wireless Radiation Field Reconstruction: A 3D Gaussian Splatting Approach}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Wireless communication;Computational modeling;Three-dimensional displays;Adaptation models;Accuracy;Antenna arrays;Solid modeling;Optical scattering;Optical reflection;Optical diffraction;Wireless channel modeling;wireless radiation field reconstruction;3D Gaussian splatting;channel prediction},
+  doi={10.1109/TWC.2025.3631663}}
 ```
 ## Acknowledgment
 Some code snippets are borrowed from [3DGS](https://github.com/graphdeco-inria/gaussian-splatting/tree/main).
